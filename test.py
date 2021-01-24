@@ -1,5 +1,0 @@
-mines = set()
-mines.add((1,2))
-mines.add((0,2))
-mines.add((2,2))
-print((3,3) in mines)
